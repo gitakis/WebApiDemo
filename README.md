@@ -15,5 +15,5 @@ Installation:
 	3.1 Create database schema. Open Package Manager Console and Run command: update-database
 	3.2 Run api service with CTRL+F5
 
-4. Logs are written to file .\WebApiDemo\Logs\applog-20240205
+4. Logs are written to file .\WebApiDemo\Logs\applog-<YYYYMMDD>
 
